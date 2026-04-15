@@ -1,4 +1,4 @@
-# CinePick — React + TMDB
+# 🎬 CINE MATCH AI  
 
 Real **movies, posters, vote averages, overviews, and search** come from **[The Movie Database (TMDB)](https://www.themoviedb.org/)**. Your **star ratings**, **bookmarks**, and **taste** (genres + mood) are stored in the **browser** (`localStorage`).
 
