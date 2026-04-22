@@ -13,7 +13,7 @@ export function Navbar() {
     >
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-4">
         <NavLink to="/" className="font-display text-xl font-bold tracking-tight">
-          Movie <span className="text-glow">RecSys</span>
+          CineMatch <span className="text-glow">AI</span>
         </NavLink>
         <nav className="flex flex-wrap items-center gap-1">
           <NavLink
